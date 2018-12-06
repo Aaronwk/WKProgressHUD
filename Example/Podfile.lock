@@ -1,0 +1,16 @@
+PODS:
+  - WKProgressHUD (0.1.0)
+
+DEPENDENCIES:
+  - WKProgressHUD (from `../`)
+
+EXTERNAL SOURCES:
+  WKProgressHUD:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WKProgressHUD: 02433c3cbeeeb9733d7a46e056d8623fece8b977
+
+PODFILE CHECKSUM: 9741329a5162249b23f65a1d743fad5a7ef1fc17
+
+COCOAPODS: 1.5.3
