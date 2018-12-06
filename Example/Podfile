@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'WKProgressHUD_Example' do
+  pod 'WKProgressHUD', :path => '../'
+
+  target 'WKProgressHUD_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
