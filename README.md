@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # WKProgressHUD
 
 [![CI Status](https://img.shields.io/travis/objective/WKProgressHUD.svg?style=flat)](https://travis-ci.org/objective/WKProgressHUD)
@@ -27,3 +28,6 @@ objective, wangkai@ctdcn.com
 ## License
 
 WKProgressHUD is available under the MIT license. See the LICENSE file for more info.
+=======
+# WKProgressHUD
+>>>>>>> 89345a5d3a2c882991d45b13c2f714e5ed99caab
